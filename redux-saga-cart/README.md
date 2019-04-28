@@ -6,8 +6,6 @@ The branch has all the scaffolding of the application, but no sagas. *Add sagas 
 
 ## About
 redux-saga-cart is a fully functional, non-trivial demo application meant to help intermediate and advanced users understand and use Redux Saga.
-This project is the finished product that is built in the Pluralsight course redux-saga. (Link coming soon)
-While running and studying this project is useful to anyone, it is strongly recommended that you build it while watching the Pluralsight course.
 
 ## Installation
 1. Clone and install this repo
