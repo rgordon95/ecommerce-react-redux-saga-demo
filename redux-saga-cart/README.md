@@ -10,18 +10,14 @@ This project is the finished product that is built in the Pluralsight course red
 While running and studying this project is useful to anyone, it is strongly recommended that you build it while watching the Pluralsight course.
 
 ## Installation
-* This application has a seperate back-end component available here: https://github.com/danielstern/redux-saga-shopping-cart-server . The back-end and front-end have been seperated to help make learning redux-saga easier. *
-1. Clone and install the server application
+1. Clone and install this repo
 
-2. Clone and install the application
-`git@github.com:danielstern/redux-saga-cart.git && cd redux-saga-cart && npm install`
-
-3. Install the babel CLI
+2. Install the babel CLI
 `npm install -g babel babel-cli`
 
 ## Usage
-1. Start the application with `npm start`
-2. Open the url `http://localhost:8080`
+1. Start the application with `npm start` in each folder
+2. Open the url `http://localhost:8080`(backend is on 8081)
 
 ## Troubleshooting
 ### The application hangs on load
